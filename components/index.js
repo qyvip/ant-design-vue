@@ -136,6 +136,8 @@ import { default as Skeleton } from './skeleton';
 
 import { default as Comment } from './comment';
 
+// import { default as ColorPicker } from './color-picker';
+
 import { default as ConfigProvider } from './config-provider';
 
 import { default as Empty } from './empty';
@@ -144,6 +146,7 @@ import { default as Result } from './result';
 
 import { default as Descriptions } from './descriptions';
 import { default as PageHeader } from './page-header';
+import { default as Space } from './space';
 
 const components = [
   Base,
@@ -203,11 +206,13 @@ const components = [
   Drawer,
   Skeleton,
   Comment,
+  // ColorPicker,
   ConfigProvider,
   Empty,
   Result,
   Descriptions,
   PageHeader,
+  Space,
 ];
 
 const install = function(Vue) {
@@ -292,11 +297,13 @@ export {
   Drawer,
   Skeleton,
   Comment,
+  // ColorPicker,
   ConfigProvider,
   Empty,
   Result,
   Descriptions,
   PageHeader,
+  Space,
 };
 
 export default {

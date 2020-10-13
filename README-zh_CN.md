@@ -40,6 +40,7 @@ An enterprise-class UI components based on Ant Design and Vue.
 - 提炼自企业级中后台产品的交互语言和视觉风格。
 - 开箱即用的高质量 Vue 组件。
 - 共享 [Ant Design of React](http://ant-design.gitee.io/docs/spec/introduce-cn) 设计工具体系。
+- 从 [2.x](https://2x.antdv.com/) 版本开始支持 Vue 3
 
 ## 支持环境
 
@@ -106,5 +107,11 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 Support us with a monthly donation and help us continue our activities. [[Become a backer](https://opencollective.com/ant-design-vue#backer)]
 
 <a href="https://opencollective.com/ant-design-vue/backer/0/website" target="_blank"><img src="https://opencollective.com/ant-design-vue/backer/0/avatar.svg"></a> <a href="https://opencollective.com/ant-design-vue/backer/1/website" target="_blank"><img src="https://opencollective.com/ant-design-vue/backer/1/avatar.svg"></a> <a href="https://opencollective.com/ant-design-vue/backer/2/website" target="_blank"><img src="https://opencollective.com/ant-design-vue/backer/2/avatar.svg"></a> <a href="https://opencollective.com/ant-design-vue/backer/3/website" target="_blank"><img src="https://opencollective.com/ant-design-vue/backer/3/avatar.svg"></a> <a href="https://opencollective.com/ant-design-vue/backer/4/website" target="_blank"><img src="https://opencollective.com/ant-design-vue/backer/4/avatar.svg"></a> <a href="https://opencollective.com/ant-design-vue/backer/5/website" target="_blank"><img src="https://opencollective.com/ant-design-vue/backer/5/avatar.svg"></a> <a href="https://opencollective.com/ant-design-vue/backer/6/website" target="_blank"><img src="https://opencollective.com/ant-design-vue/backer/6/avatar.svg"></a> <a href="https://opencollective.com/ant-design-vue/backer/7/website" target="_blank"><img src="https://opencollective.com/ant-design-vue/backer/7/avatar.svg"></a> <a href="https://opencollective.com/ant-design-vue/backer/8/website" target="_blank"><img src="https://opencollective.com/ant-design-vue/backer/8/avatar.svg"></a> <a href="https://opencollective.com/ant-design-vue/backer/9/website" target="_blank"><img src="https://opencollective.com/ant-design-vue/backer/9/avatar.svg"></a> <a href="https://opencollective.com/ant-design-vue/backer/10/website" target="_blank"><img src="https://opencollective.com/ant-design-vue/backer/10/avatar.svg"></a>
+
+## Patreon
+
+Support us with a monthly donation and help us continue our activities. [[Become a backer](https://www.patreon.com/tangjinzhou)]
+
+<a href="https://www.mokeyjay.com" target="_blank"><img  width="64" style="border-radius: 50%;" src="https://www.mokeyjay.com/headimg.png" title="donation by Patreon"></a>
 
 ## [更多赞助者 (通过 Patreon、支付宝、微信、paypal 等等)](https://github.com/vueComponent/ant-design-vue/blob/master/BACKERS.md)

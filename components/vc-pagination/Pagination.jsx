@@ -195,7 +195,7 @@ export default {
       }
     },
     handleKeyUp(e) {
-      if (e.target.composing) return;
+      if (e.isComposing || e.target.composing) return;
       const value = this.getValidValue(e);
       const stateCurrentInputValue = this.stateCurrentInputValue;
 
@@ -259,8 +259,8 @@ export default {
           });
         }
         // this.$emit('input', page)
-        this.$emit('change', page, this.statePageSize);
         this.$emit('change.current', page, this.statePageSize);
+        this.$emit('change', page, this.statePageSize);
         return page;
       }
       return this.stateCurrent;

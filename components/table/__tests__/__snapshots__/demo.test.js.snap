@@ -314,24 +314,48 @@ exports[`renders ./antdv-demo/docs/table/demo/custom-filter-panel.md correctly 1
       </thead>
       <tbody class="ant-table-tbody">
         <tr class="ant-table-row ant-table-row-level-0" data-row-key="1">
-          <td class="ant-table-column-has-actions ant-table-column-has-filters">John Brown</td>
-          <td class="ant-table-column-has-actions ant-table-column-has-filters">32</td>
-          <td class="ant-table-column-has-actions ant-table-column-has-filters">New York No. 1 Lake Park</td>
+          <td class="ant-table-column-has-actions ant-table-column-has-filters">
+            John Brown
+          </td>
+          <td class="ant-table-column-has-actions ant-table-column-has-filters">
+            32
+          </td>
+          <td class="ant-table-column-has-actions ant-table-column-has-filters">
+            New York No. 1 Lake Park
+          </td>
         </tr>
         <tr class="ant-table-row ant-table-row-level-0" data-row-key="2">
-          <td class="ant-table-column-has-actions ant-table-column-has-filters">Joe Black</td>
-          <td class="ant-table-column-has-actions ant-table-column-has-filters">42</td>
-          <td class="ant-table-column-has-actions ant-table-column-has-filters">London No. 1 Lake Park</td>
+          <td class="ant-table-column-has-actions ant-table-column-has-filters">
+            Joe Black
+          </td>
+          <td class="ant-table-column-has-actions ant-table-column-has-filters">
+            42
+          </td>
+          <td class="ant-table-column-has-actions ant-table-column-has-filters">
+            London No. 1 Lake Park
+          </td>
         </tr>
         <tr class="ant-table-row ant-table-row-level-0" data-row-key="3">
-          <td class="ant-table-column-has-actions ant-table-column-has-filters">Jim Green</td>
-          <td class="ant-table-column-has-actions ant-table-column-has-filters">32</td>
-          <td class="ant-table-column-has-actions ant-table-column-has-filters">Sidney No. 1 Lake Park</td>
+          <td class="ant-table-column-has-actions ant-table-column-has-filters">
+            Jim Green
+          </td>
+          <td class="ant-table-column-has-actions ant-table-column-has-filters">
+            32
+          </td>
+          <td class="ant-table-column-has-actions ant-table-column-has-filters">
+            Sidney No. 1 Lake Park
+          </td>
         </tr>
         <tr class="ant-table-row ant-table-row-level-0" data-row-key="4">
-          <td class="ant-table-column-has-actions ant-table-column-has-filters">Jim Red</td>
-          <td class="ant-table-column-has-actions ant-table-column-has-filters">32</td>
-          <td class="ant-table-column-has-actions ant-table-column-has-filters">London No. 2 Lake Park</td>
+          <td class="ant-table-column-has-actions ant-table-column-has-filters">
+            Jim Red
+          </td>
+          <td class="ant-table-column-has-actions ant-table-column-has-filters">
+            32
+          </td>
+          <td class="ant-table-column-has-actions ant-table-column-has-filters">
+            London No. 2 Lake Park
+          </td>
         </tr>
       </tbody>
       </table>
@@ -389,7 +413,8 @@ exports[`renders ./antdv-demo/docs/table/demo/edit-cell.md correctly 1`] = `
                 Edward King 0
                 <i aria-label="icon: edit" tabindex="-1" class="editable-cell-icon anticon anticon-edit"><svg viewBox="64 64 896 896" data-icon="edit" width="1em" height="1em" fill="currentColor" aria-hidden="true" focusable="false" class="">
                     <path d="M257.7 752c2 0 4-.2 6-.5L431.9 722c2-.4 3.9-1.3 5.3-2.8l423.9-423.9a9.96 9.96 0 0 0 0-14.1L694.9 114.9c-1.9-1.9-4.4-2.9-7.1-2.9s-5.2 1-7.1 2.9L256.8 538.8c-1.5 1.5-2.4 3.3-2.8 5.3l-29.5 168.2a33.5 33.5 0 0 0 9.4 29.8c6.6 6.4 14.9 9.9 23.8 9.9zm67.4-174.4L687.8 215l73.3 73.3-362.7 362.6-88.9 15.7 15.6-89zM880 836H144c-17.7 0-32 14.3-32 32v36c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-36c0-17.7-14.3-32-32-32z"></path>
-                  </svg></i></div>
+                  </svg></i>
+              </div>
             </div>
           </td>
           <td class="">32</td>
@@ -403,7 +428,8 @@ exports[`renders ./antdv-demo/docs/table/demo/edit-cell.md correctly 1`] = `
                 Edward King 1
                 <i aria-label="icon: edit" tabindex="-1" class="editable-cell-icon anticon anticon-edit"><svg viewBox="64 64 896 896" data-icon="edit" width="1em" height="1em" fill="currentColor" aria-hidden="true" focusable="false" class="">
                     <path d="M257.7 752c2 0 4-.2 6-.5L431.9 722c2-.4 3.9-1.3 5.3-2.8l423.9-423.9a9.96 9.96 0 0 0 0-14.1L694.9 114.9c-1.9-1.9-4.4-2.9-7.1-2.9s-5.2 1-7.1 2.9L256.8 538.8c-1.5 1.5-2.4 3.3-2.8 5.3l-29.5 168.2a33.5 33.5 0 0 0 9.4 29.8c6.6 6.4 14.9 9.9 23.8 9.9zm67.4-174.4L687.8 215l73.3 73.3-362.7 362.6-88.9 15.7 15.6-89zM880 836H144c-17.7 0-32 14.3-32 32v36c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-36c0-17.7-14.3-32-32-32z"></path>
-                  </svg></i></div>
+                  </svg></i>
+              </div>
             </div>
           </td>
           <td class="">32</td>
@@ -461,13 +487,19 @@ exports[`renders ./antdv-demo/docs/table/demo/edit-row.md correctly 1`] = `
     <tbody class="ant-table-tbody">
       <tr class="ant-table-row ant-table-row-level-0" data-row-key="0">
         <td class="ant-table-row-cell-break-word">
-          <div>Edrward 0</div>
+          <div>
+            Edrward 0
+          </div>
         </td>
         <td class="ant-table-row-cell-break-word">
-          <div>32</div>
+          <div>
+            32
+          </div>
         </td>
         <td class="ant-table-row-cell-break-word">
-          <div>London Park no. 0</div>
+          <div>
+            London Park no. 0
+          </div>
         </td>
         <td class="">
           <div class="editable-row-operations"><span><a>Edit</a></span></div>
@@ -475,13 +507,19 @@ exports[`renders ./antdv-demo/docs/table/demo/edit-row.md correctly 1`] = `
       </tr>
       <tr class="ant-table-row ant-table-row-level-0" data-row-key="1">
         <td class="ant-table-row-cell-break-word">
-          <div>Edrward 1</div>
+          <div>
+            Edrward 1
+          </div>
         </td>
         <td class="ant-table-row-cell-break-word">
-          <div>32</div>
+          <div>
+            32
+          </div>
         </td>
         <td class="ant-table-row-cell-break-word">
-          <div>London Park no. 1</div>
+          <div>
+            London Park no. 1
+          </div>
         </td>
         <td class="">
           <div class="editable-row-operations"><span><a>Edit</a></span></div>
@@ -489,13 +527,19 @@ exports[`renders ./antdv-demo/docs/table/demo/edit-row.md correctly 1`] = `
       </tr>
       <tr class="ant-table-row ant-table-row-level-0" data-row-key="2">
         <td class="ant-table-row-cell-break-word">
-          <div>Edrward 2</div>
+          <div>
+            Edrward 2
+          </div>
         </td>
         <td class="ant-table-row-cell-break-word">
-          <div>32</div>
+          <div>
+            32
+          </div>
         </td>
         <td class="ant-table-row-cell-break-word">
-          <div>London Park no. 2</div>
+          <div>
+            London Park no. 2
+          </div>
         </td>
         <td class="">
           <div class="editable-row-operations"><span><a>Edit</a></span></div>
@@ -503,13 +547,19 @@ exports[`renders ./antdv-demo/docs/table/demo/edit-row.md correctly 1`] = `
       </tr>
       <tr class="ant-table-row ant-table-row-level-0" data-row-key="3">
         <td class="ant-table-row-cell-break-word">
-          <div>Edrward 3</div>
+          <div>
+            Edrward 3
+          </div>
         </td>
         <td class="ant-table-row-cell-break-word">
-          <div>32</div>
+          <div>
+            32
+          </div>
         </td>
         <td class="ant-table-row-cell-break-word">
-          <div>London Park no. 3</div>
+          <div>
+            London Park no. 3
+          </div>
         </td>
         <td class="">
           <div class="editable-row-operations"><span><a>Edit</a></span></div>
@@ -517,13 +567,19 @@ exports[`renders ./antdv-demo/docs/table/demo/edit-row.md correctly 1`] = `
       </tr>
       <tr class="ant-table-row ant-table-row-level-0" data-row-key="4">
         <td class="ant-table-row-cell-break-word">
-          <div>Edrward 4</div>
+          <div>
+            Edrward 4
+          </div>
         </td>
         <td class="ant-table-row-cell-break-word">
-          <div>32</div>
+          <div>
+            32
+          </div>
         </td>
         <td class="ant-table-row-cell-break-word">
-          <div>London Park no. 4</div>
+          <div>
+            London Park no. 4
+          </div>
         </td>
         <td class="">
           <div class="editable-row-operations"><span><a>Edit</a></span></div>
@@ -531,13 +587,19 @@ exports[`renders ./antdv-demo/docs/table/demo/edit-row.md correctly 1`] = `
       </tr>
       <tr class="ant-table-row ant-table-row-level-0" data-row-key="5">
         <td class="ant-table-row-cell-break-word">
-          <div>Edrward 5</div>
+          <div>
+            Edrward 5
+          </div>
         </td>
         <td class="ant-table-row-cell-break-word">
-          <div>32</div>
+          <div>
+            32
+          </div>
         </td>
         <td class="ant-table-row-cell-break-word">
-          <div>London Park no. 5</div>
+          <div>
+            London Park no. 5
+          </div>
         </td>
         <td class="">
           <div class="editable-row-operations"><span><a>Edit</a></span></div>
@@ -545,13 +607,19 @@ exports[`renders ./antdv-demo/docs/table/demo/edit-row.md correctly 1`] = `
       </tr>
       <tr class="ant-table-row ant-table-row-level-0" data-row-key="6">
         <td class="ant-table-row-cell-break-word">
-          <div>Edrward 6</div>
+          <div>
+            Edrward 6
+          </div>
         </td>
         <td class="ant-table-row-cell-break-word">
-          <div>32</div>
+          <div>
+            32
+          </div>
         </td>
         <td class="ant-table-row-cell-break-word">
-          <div>London Park no. 6</div>
+          <div>
+            London Park no. 6
+          </div>
         </td>
         <td class="">
           <div class="editable-row-operations"><span><a>Edit</a></span></div>
@@ -559,13 +627,19 @@ exports[`renders ./antdv-demo/docs/table/demo/edit-row.md correctly 1`] = `
       </tr>
       <tr class="ant-table-row ant-table-row-level-0" data-row-key="7">
         <td class="ant-table-row-cell-break-word">
-          <div>Edrward 7</div>
+          <div>
+            Edrward 7
+          </div>
         </td>
         <td class="ant-table-row-cell-break-word">
-          <div>32</div>
+          <div>
+            32
+          </div>
         </td>
         <td class="ant-table-row-cell-break-word">
-          <div>London Park no. 7</div>
+          <div>
+            London Park no. 7
+          </div>
         </td>
         <td class="">
           <div class="editable-row-operations"><span><a>Edit</a></span></div>
@@ -573,13 +647,19 @@ exports[`renders ./antdv-demo/docs/table/demo/edit-row.md correctly 1`] = `
       </tr>
       <tr class="ant-table-row ant-table-row-level-0" data-row-key="8">
         <td class="ant-table-row-cell-break-word">
-          <div>Edrward 8</div>
+          <div>
+            Edrward 8
+          </div>
         </td>
         <td class="ant-table-row-cell-break-word">
-          <div>32</div>
+          <div>
+            32
+          </div>
         </td>
         <td class="ant-table-row-cell-break-word">
-          <div>London Park no. 8</div>
+          <div>
+            London Park no. 8
+          </div>
         </td>
         <td class="">
           <div class="editable-row-operations"><span><a>Edit</a></span></div>
@@ -587,13 +667,19 @@ exports[`renders ./antdv-demo/docs/table/demo/edit-row.md correctly 1`] = `
       </tr>
       <tr class="ant-table-row ant-table-row-level-0" data-row-key="9">
         <td class="ant-table-row-cell-break-word">
-          <div>Edrward 9</div>
+          <div>
+            Edrward 9
+          </div>
         </td>
         <td class="ant-table-row-cell-break-word">
-          <div>32</div>
+          <div>
+            32
+          </div>
         </td>
         <td class="ant-table-row-cell-break-word">
-          <div>London Park no. 9</div>
+          <div>
+            London Park no. 9
+          </div>
         </td>
         <td class="">
           <div class="editable-row-operations"><span><a>Edit</a></span></div>
